@@ -7,7 +7,9 @@
 - 🌱 Estou aprendendo a como me desenvolver como ser humano, acho isso primordial para qualquer profissão
 - 👯 Estou participando de comunidades e colocaborando em blogs de estudos à distância
 -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasAMiranda&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAMiranda)]
 
-![![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasAMiranda)]
 
