@@ -1,6 +1,6 @@
 ### Olá UNKNOW, meu nome é Lucas  👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LucasAlencarMiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-alencar-miranda-87a231113//)](https://www.linkedin.com/inhttps://www.linkedin.com/in/lucas-alencar-miranda-87a231113/)
+[![Linkedin Badge](https://img.shields.io/badge/-LucasAlencarMiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-alencar-miranda-87a231113//)](https://www.linkedin.com/in/lucas-alencar-miranda/)
 
 Olá 👋
 Sou Lucas, desenvolvedor Back-end, com experiência somente Home-office em desenvolvimento, apaixonado por criar soluções baseadas em minhas experiências.
