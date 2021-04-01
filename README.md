@@ -1,6 +1,5 @@
 ### Olá UNKNOW, meu nome é Lucas  👋
 
-Linkedin Badge
 
 Olá 👋
 Sou Lucas, desenvolvedor Back-end, com experiência somente Home-office em desenvolvimento, apaixonado por criar soluções baseadas em minhas experiências.
