@@ -3,7 +3,7 @@
 Linkedin Badge
 
 Olá 👋
-Sou Lucas, desenvolvedor Back-end, com experiência somente caseira em desenvolvimento, apaixonado por criar soluções baseadas em minhas experiências.
+Sou Lucas, desenvolvedor Back-end, com experiência somente Home-office em desenvolvimento, apaixonado por criar soluções baseadas em minhas experiências.
 
 🌱 Atualmente, estou aprendendo Python,  SQL,  Django e Flask API's 
 ⚙️ Eu uso diariamente: .python, .html, .css, .js.
