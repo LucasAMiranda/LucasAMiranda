@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LucasAlencarMiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-alencar-miranda-87a231113/)](https://www.linkedin.com/in/lucas-alencar-miranda-87a231113/)
 
 Olá 👋
-Sou Lucas, desenvolvedor Back-end, instrutor de computação e programação, com experiência somente Home-office em aulas, apaixonado por criar soluções baseadas em minhas experiências e com experiência de terceiros.
+Sou Lucas, desenvolvedor Back-end, instrutor de computação e programação, com experiência somente Home-office em aulas, apaixonado por criar soluções baseadas em minhas experiências e com experiências de terceiros.
 
 🌱 Atualmente, estou aprendendo Python,  SQL,  Django e Flask API's 
 ⚙️ Eu uso diariamente: .python, .html, .css, .js.
