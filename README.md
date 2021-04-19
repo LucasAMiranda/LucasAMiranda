@@ -12,3 +12,6 @@ Sou Lucas, desenvolvedor Back-end por hobby, instrutor de computação e program
 https://imagineschool.com.br/</p>
 
 
+<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#E4E2E2" width="349" fill="#1a1b27" stroke-opacity="1"/>
+
+
