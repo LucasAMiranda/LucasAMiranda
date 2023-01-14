@@ -1,6 +1,5 @@
 ### Olá UNKNOW, meu nome é Lucas  👋
 
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
