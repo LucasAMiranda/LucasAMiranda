@@ -16,7 +16,7 @@
 <h2>Olá 👋
 Sou Lucas, desenvolvedor Back-end por hobby e profissão, instrutor de computação e programação com experiência somente Home-office e presencial em aulas e projetos reais, apaixonado por criar soluções baseadas em open source e experiências próprias, gosto muito da área de TI e de me envolver com comunidades do facebook e whatsapp em ethical hacker, segurança ofensiva, Linux</h2>
 
-<p>💻 Atualmente, estou aprendendo Python,  SQL,  Django, Flask API's,  Infraestrutura de redes </p>
+<p>💻 Atualmente minhas stack é Python,  SQL,  Django, Flask API e ReactJS </p>
 <p>⚙️ Eu uso diariamente: .python, .html, .css, .js, .cpp, .c </p>
 <p>🎓 Formado em Análise e Desenvolvimento de Sistemas na ESTÁCIO DE SÁ</p>
 <p>📚 Conquista: Aprovado para uma bolsa de capacitação de Engenheiro Front-end no curso Imagine School, fui um dos 3 escolhidos a ganhar a bolsa de 100% em uma live no youtube.</p>
