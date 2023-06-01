@@ -18,7 +18,7 @@ Sou Lucas desenvolvedor fullstack, instrutor de Tecnologia da Informação com e
 
 <p>💻 Atualmente minha stack é Python,  SQL,  Django, Flask API, ReactJS, PostgresSql, Mysql e Nodejs</p>
 <p>⚙️ Eu uso diariamente: .python, .html, .css, .js, .cpp, .c </p>
-<p>🎓 Formado em Análise e Desenvolvimento de Sistemas na ESTÁCIO DE SÁ</p>
+<p>🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
 <p>📚 Conquista: Aprovado para uma bolsa de capacitação de Engenheiro Front-end no curso Imagine School, fui um dos 3 escolhidos a ganhar a bolsa de 100% em uma live no youtube.</p>
 
  
