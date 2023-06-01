@@ -14,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LucasAlencarMiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-alencar-miranda-87a231113/)](https://www.linkedin.com/in/lucas-alencar-miranda-87a231113/)
 
 <h2>Olá, 👋
-Sou Lucas desenvolvedor fullstack, instrutor de Tecnologia da Informação com experiência Home-office e Presencial, minhas aulas são baseadas em projetos reais para ensinar meus alunos a como programar de verdade para não ser programador na vida real, apaixonado por criar soluções baseadas em open source e experiências próprias, gosto muito da área de TI e de me envolver com comunidades do facebook e whatsapp em ethical hacker, Linux,  programação e desenvolvimento de software</h2>
+Sou Lucas desenvolvedor fullstack, instrutor de Tecnologia da Informação com experiência Home-office e Presencial, minhas aulas são baseadas em projetos reais para ensinar meus alunos a como programar de verdade para não ser programado na vida real, apaixonado por criar soluções baseadas em open source e experiências próprias, gosto muito da área de TI e de me envolver com comunidades do facebook e whatsapp em ethical hacker, Linux,  programação e desenvolvimento de software</h2>
 
 <p>💻 Atualmente minha stack é Python,  SQL,  Django, Flask API, ReactJS, PostgresSql, Mysql e Nodejs</p>
 <p>⚙️ Eu uso diariamente: .python, .html, .css, .js, .cpp, .c </p>
