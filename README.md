@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/lucas-alencar-miranda-87a231113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-alencar-miranda-87a231113/" height="30" width="40" /></a>
 <a href="https://instagram.com/lschoolinfotech.oficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lschoolinfotech.oficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uc0ah4_01wtighrnq1njgokw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0ah4_01wtighrnq1njgokw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@lschoolinfotech.oficial/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0ah4_01wtighrnq1njgokw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
