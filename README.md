@@ -13,8 +13,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LucasAlencarMiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-alencar-miranda-87a231113/)](https://www.linkedin.com/in/lucas-alencar-miranda-87a231113/)
 
-<h2>
-Sou Desenvolvedor Fullstack, instrutor de Tecnologia da Informação com experiência Home-office e Presencial. /h2>
+<p>
+Sou Desenvolvedor Fullstack, instrutor de Tecnologia da Informação com experiência Home-office e Presencial.</p>
 
 <p>💻 Atualmente minha stack é Python,  SQL,  Django, Flask API, ReactJS, PostgresSql, Mysql e Nodejs</p>
 <p>⚙️ Eu uso diariamente: .python, .html, .css, .js, .cpp, .c </p>
