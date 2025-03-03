@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Entusiasta em programação para web, raspagem de dados, ciências de dados e IA.</h3>
+- 🌱 Atualmente estou aprendendo **Docker e docker compose**
 
-- 🔭 I’m currently working on [Projeto de Monografia Tcc Motorola](ProjetoTccMotorola2.0)
+- 📝 Escrevo artigos regularmente no [https://profes.com.br/lucasmirandacoach/blog/](https://profes.com.br/lucasmirandacoach/blog/)
 
-- 🌱 I’m currently learning **Docker e docker compose**
-
-- 📝 I regularly write articles on [https://profes.com.br/lucasmirandacoach/blog/](https://profes.com.br/lucasmirandacoach/blog/)
-
-- 💬 Ask me about **React js, Python, Django framework , Flask , webscraping , data science, mysql , sqlite3 , Postgresql, Nodejs**
-
+- 💬 Pergunte-me sobre **React js, Python, estrutura Django, Flask, webscraping, ciência de dados, mysql, sqlite3, Postgresql, Nodejs**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas-alencar-miranda-87a231113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-alencar-miranda-87a231113/" height="30" width="40" /></a>
