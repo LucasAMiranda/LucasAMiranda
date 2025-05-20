@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">Entusiasta em programação para web, raspagem de dados, ciências de dados, Automação, Machine Learning e IA.</h3>
+<h3 align="center">Entusiasta em Programação para web, Desktop, Raspagem de dados, Ciências de dados, Automação, Machine Learning e IA.</h3>
 - 🌱 Atualmente estou aprendendo **Docker, docker comper e AWS CLOUD **
 
 - 📝 Escrevo artigos regularmente no [https://profes.com.br/lucasmirandacoach/blog/](https://profes.com.br/lucasmirandacoach/blog/)
