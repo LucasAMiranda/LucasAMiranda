@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Entusiasta em Programação para web, Desktop, Raspagem de dados, Ciências de dados, Automação, Machine Learning e IA.</h3>
 
-- 📝 Escrevo artigos regularmente no [https://profes.com.br/lucasmirandacoach/blog/](https://profes.com.br/lucasmirandacoach/blog/)
-
 - 💬 Pergunte-me sobre **React js, Python, estrutura Django, Flask, webscraping, ciência de dados, mysql, sqlite3, Postgresql, Nodejs**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
