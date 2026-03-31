@@ -35,18 +35,6 @@ Sou um entusiasta de tecnologia e educação focado em transformar linhas de có
 *Explorando Machine Learning, Blockchain e o Desenvolvimento do Assistente Virtual JARVIS.*
 
 ---
-
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasAMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Lucas" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAMiranda&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ## 🎯 Projetos em Destaque
 
 * **Nexus Jurídico Digital:** Sistema especializado para gestão jurídica e advocacia.
